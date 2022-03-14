@@ -5,12 +5,12 @@ border: 5px solid red;
 
 }
 
-/*.imagesection img {
+.imagesection img {
 
  margin: 20px 0 10px 0;
  padding:0px;
     width:290px;
-}*/
+}
 
 .logo img {
  border-radius: 100px;
