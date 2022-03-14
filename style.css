@@ -5,14 +5,27 @@ border: 5px solid red;
 
 }*/
 
-.imagesection img {
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.column img {
 
  margin: 20px 0 10px 0;
  padding:0px;
     width:290px;
 }
 
-.logo img {
+.row img {
  border-radius: 100px;
  width: 150px;
  height: 150px;
