@@ -14,7 +14,7 @@ border: 5px solid red;
 
 .logo img {
  border-radius: 100px;
- width: 200px;
- height: 200px;
+ width: 100px;
+ height: 100px;
  box-shadow: 10px 10px 5px grey;
 }
